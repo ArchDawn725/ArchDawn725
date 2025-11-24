@@ -1,124 +1,162 @@
-# 👋 Hi, I'm ArchDawn
+# 👋 Hi, I'm ArchDawn (Chesney Gunnells)
 
-Unity / C# Game Programmer • Systems & Architecture Focus • 2018–Present
+**Unity/C# Game Programmer • Systems & Architecture Specialist • 7+ Years Experience**
 
-I build games and gameplay systems in Unity + C#, from solo projects to published titles and collaborations.  
-This portfolio shows my multi-year growth from early small projects to large, system-heavy games.
+I’ve been developing games since 2018, creating systems, tools, and full games as both a solo developer and collaborator.  
+My work spans published titles, multiplayer frameworks, turn-based combat systems, procedural generation, and scalable architecture.
 
 ---
 
 ## 🧩 What I Do
 
-- 🎮 Gameplay & Systems Programming – combat loops, progression, UI flows, metagame systems  
-- 🏗️ Architecture & Code Design – modular systems, clean patterns, maintainable codebases  
-- 🛠️ Tools & Editor Extensions – custom inspectors, workflows, and pipelines for designers  
-- 🚀 Optimization & Debugging – profiling, allocations, performance bottlenecks, refactors  
+- 🎮 **Gameplay Programming** — combat loops, progression, roguelites, VR interactions  
+- 🏗️ **Systems Architecture** — scalable, modular, data-driven game systems  
+- 🧠 **AI Design** — state machines, behavior logic, enemy control, decision systems  
+- 🛠️ **Tools & Pipelines** — custom inspectors, modding systems, automation tools  
+- 🚀 **Optimization & Profiling** — allocations, pooling, async workflows, GC control  
+- 🌐 **Multiplayer** — lobbies, 9-player match support, networked turn-based systems  
 
-_All code in my portfolio repos is written by me unless explicitly noted._
+_All code in my portfolio repositories is written by me._
 
 ---
 
-## 🛠️ Tech & Skills
+## 🛠️ Technical Skills
 
-Languages: C#, (optionally: C, C++, etc.)  
-Engine: Unity (2D/3D, URP, prefabs, scenes, ScriptableObjects, etc.)  
-Core Skills:
-- Game & systems architecture  
-- Data-driven design (ScriptableObjects / config assets)  
-- State machines, event systems, managers  
-- Save/load systems, scene flow, game loops  
-- Performance profiling & optimization (GC, allocations, caching)  
-- Version control (Git)
+**Languages:** C#  
+**Engine:** Unity (2D/3D, URP, VR, multiplayer, AI, ScriptableObjects)
+
+**Specializations:**
+- Systems architecture & design patterns  
+- Event-driven programming  
+- Turn-based combat systems  
+- Async systems & task scheduling  
+- Procedural generation  
+- Object pooling  
+- Save/load frameworks  
+- UI architecture  
+- State machines  
+- Data-driven gameplay  
+- Multiplayer systems  
+- AI logic & behavior structures  
 
 ---
 
 ## 🎮 Featured Projects
 
-> These are my main portfolio pieces. Each repo includes code, breakdowns, and notes on architecture and decisions.
-
-### ⭐ 2025 – **Battle Tokens** (Large, Published)  
-**Role:** Solo developer / programmer  
-**Focus:** Turn-based combat systems, data-driven tokens, tools, game flow  
-**Repo:** [Battle Tokens](<link-to-repo>)  
+> My strongest and most recent work. Each project repository includes scripts, documentation, and architectural breakdowns.
 
 ---
 
-### 🎯 2025 – **Tulsa Game Dev Collaboration** (Small, In Development)  
-**Role:** Programmer in a small team (Tulsa Game Developers)  
-**Focus:** Collaboration, shared codebase practices, feature implementation  
-**Repo:** [Tulsa Collab Project](<link-to-repo>)  
+### ⭐ 2025 – **Battle Tokens (Large, Published)**  
+**Identity:** Async turn-based combat system with a custom event framework and 9-player multiplayer (with lobby).  
+**Role:** Solo developer — I built the entire codebase.  
+**Highlights:** Systems architecture, real-time multiplayer, event pipelines, scalable token mechanics  
+**Steam:** https://store.steampowered.com/app/3585790/Battle_Tokens/  
+**Repo:** *Coming Soon*
 
 ---
 
-### 🪙 2024 – **Talking Coin** (Medium, Cancelled)  
-**Role:** Solo developer / programmer  
-**Focus:** System design experiments, architecture decisions, iteration  
-**Repo:** [Talking Coin](<link-to-repo>)
+### 🎯 2025 – **Tulsa Game Developers Collaboration** (Small, In Production)  
+**Genre:** Roguelike bullet hell  
+**Role:** Programmer (everything except player abilities)  
+**Highlights:**  
+- Spawn manager & object pooling  
+- Room system & split-screen multiplayer  
+- Projectile systems  
+- Single entry-point loading and initialization  
+
+**Repo:** *Coming Soon*
 
 ---
 
-### 🏙️ 2024 – **Urban Entrepreneur** (Large, Published)  
-**Role:** Solo developer / programmer  
-**Focus:** Economy systems, progression, UI flows, game loop structure  
-**Repo:** [Urban Entrepreneur](<link-to-repo>)
+### 🪙 2024 – **Talking Coin (Medium, Cancelled)**  
+**Goal:** AI-integrated voice-driven gameplay using ChatGPT plugins + ElevenLabs voice with V2T.  
+**Reason for cancellation:** AI task/memory consistency was too unreliable for the intended design.  
+**Highlights:** Voice pipeline, agent communication, system design experiments  
+**Repo:** *Coming Soon*
 
 ---
 
-### 🧱 2023 – **Clay Soldiers** (Large, Published)  
-**Role:** Solo developer / programmer  
-**Focus:** Combat systems, AI / enemy behavior, content scalability  
-**Repo:** [Clay Soldiers](<link-to-repo>)
+### 🏙️ 2024 – **Urban Entrepreneur (Large, Published)**  
+**Genre:** Colony sim / store simulator  
+**Role:** Solo developer  
+**Highlights:**  
+- Fully moddable architecture  
+- AI behavior + state machines  
+- Complex economic systems  
+- Robust progression & job systems  
+**Repo:** *Coming Soon*
 
 ---
 
-### 👁️ 2021 – **Unchosen: Forsaken** (Large, Published)  
-**Role:** Solo developer / programmer  
-**Focus:** Narrative systems, level flow, progression, combat  
-**Repo:** [Unchosen: Forsaken](<link-to-repo>)
+### 🧱 2023 – **Clay Soldiers (Large, Published)**  
+**Genre:** Turn-based war strategy  
+**Role:** Solo developer  
+**Highlights:** Data analysis for balancing, first published multiplayer title, enemy AI with point-based decision making  
+**Repo:** *Coming Soon*
 
 ---
 
-### 🚨 2020 – **Dispatch Disaster** (Small, Cancelled)  
-**Role:** Solo developer / programmer  
-**Focus:** Early design experiments, initial architecture attempts  
-**Repo:** [Dispatch Disaster](<link-to-repo>)
+### 👁️ 2021 – **Unchosen: Forsaken (Large, Published, VR)**  
+**Genre:** VR horror  
+**Role:** Solo developer  
+**Highlights:**  
+- Procedural map generation  
+- VR interactions & player systems  
+- Basic AI behaviors & state machines  
+**Repo:** *Coming Soon*
+
+---
+
+### 🚨 2020 – **Dispatch Disaster (Small, Cancelled)**  
+**Identity:** Early strategy prototype  
+**What it taught me:**  
+- Importance of optimization  
+- Basic multiplayer  
+- Environment/map generation  
+- Creating repeatable gameplay patterns  
+**Repo:** *Coming Soon*
 
 ---
 
 ## 📈 Growth Timeline
 
-I’ve been developing games and systems for several years. This portfolio is organized to show that progression:
+**2018–2020 — Learning & Foundations**  
+- First Unity/C# projects  
+- Tutorials and early prototypes  
+- Understanding component design & core patterns  
 
-- **2018–2020 – Learning & Tutorials**  
-  Getting comfortable with Unity, C#, and core game dev concepts.
+**2020 — First Complete Prototypes**  
+- *Dispatch Disaster*  
+- Beginning of architecture awareness and optimization practice
 
-- **2020 – First Complete Prototypes**  
-  _Dispatch Disaster_ – early attempts at game architecture and full loops.
+**2021 — First Large Published Game**  
+- *Unchosen: Forsaken (VR)*  
+- Procedural generation, VR interactions, AI behavior flow
 
-- **2021 – First Large Published Game**  
-  _Unchosen: Forsaken_ – full game structure, content pipeline, and release.
+**2023–2024 — Multi-Project Expansion**  
+- *Clay Soldiers, Urban Entrepreneur, Talking Coin*  
+- Strong systems design, modding frameworks, AI logic, multiplayer structures
 
-- **2023–2024 – Multiple Large Projects**  
-  _Clay Soldiers_, _Urban Entrepreneur_, _Talking Coin_ – stronger architecture, tools, and optimization.
-
-- **2025 – Modern Systems & Collaboration**  
-  _Battle Tokens_ and the _Tulsa collaboration_ – focus on scalability, cleaner patterns, and team workflows.
+**2025 — Advanced Systems & Multiplayer**  
+- *Battle Tokens* and the *Tulsa Collaboration Project*  
+- Event pipelines, async turn-based logic, 9-player networking, pooling, robust initialization systems
 
 ---
 
 ## 🧠 How I Work
 
-- I like **clear, modular systems** with well-defined responsibilities.  
-- I write code with **future maintainers in mind**, not just to “make it work.”  
-- I use **profiling and iteration** to keep performance in check.  
-- I’m comfortable working **solo or in a team**, giving and receiving code reviews.
+- I value **expandability and optimization** as core pillars of clean architecture.  
+- Systems should scale without rewriting.  
+- Tools should empower designers and players.  
+- Code should be readable, predictable, and maintainable.  
+- I’m committed to continuous improvement and solving complex technical problems.
 
 ---
 
 ## 📬 Contact
 
-- 📧 Email: <your.email@example.com>  
-- 🐦 (Optional) Twitter/X: <@yourhandle>  
-- 🌐 (Optional) Portfolio / Website: <link>  
+- 📧 Email: **archdawndev@gmail.com**  
+- 🎮 Steam Developer Page: https://store.steampowered.com/search/?developer=ArchDawn  
+- 📺 YouTube Devlog Channel: https://www.youtube.com/@ArchDawnDev
 
-If you’re interested in my work or want to talk about systems, tools, or game design implementation, feel free to reach out.
