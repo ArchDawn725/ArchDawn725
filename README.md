@@ -51,8 +51,8 @@ _All code in my portfolio repositories is written by me._
 **Identity:** Async turn-based combat system with a custom event framework and 9-player multiplayer (with lobby).  
 **Role:** Solo developer — I built the entire codebase.  
 **Highlights:** Systems architecture, real-time multiplayer, event pipelines, scalable token mechanics  
-**Steam:** https://store.steampowered.com/app/3585790/Battle_Tokens/  
-**Repo:** *Coming Soon*
+**Steam:** https://store.steampowered.com/app/3585790/Battle_Tokens/
+**Repo:** https://github.com/ArchDawn725/BattleTokens-Portfolio
 
 ---
 
