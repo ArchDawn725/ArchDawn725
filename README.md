@@ -23,7 +23,7 @@ _All code in my portfolio repositories is written by me._
 ## 🛠️ Technical Skills
 
 **Languages:** C#  
-**Engine:** Unity (2D/3D, URP, VR, multiplayer, AI, ScriptableObjects)
+**Engine:** Unity (2D/3D, VR, multiplayer, AI, ScriptableObjects)
 
 **Specializations:**
 - Systems architecture & design patterns  
@@ -73,8 +73,18 @@ _All code in my portfolio repositories is written by me._
 **Goal:** AI-integrated voice-driven gameplay using ChatGPT plugins + ElevenLabs voice with V2T.  
 **Reason for cancellation:** AI task/memory consistency was too unreliable for the intended design.  
 **Highlights:** Voice pipeline, agent communication, system design experiments  
+**Steam:** https://store.steampowered.com/app/3247860/Talking_Coin/
 **Repo:** *Coming Soon*
 
+---
+
+### 🏙️ 2024 – **Line-Wars (Medium, Cancelled)**
+
+**Goal:** A small studio-style experiment, recruiting local Tulsa developers to collaborate on a shared project.
+**Reason for cancellation:** Team participation and production were insufficient to maintain progress.
+**Highlights:** Strong emphasis on script readability, architectural consistency, and clean coding standards.
+**Repo:** Coming Soon
+  
 ---
 
 ### 🏙️ 2024 – **Urban Entrepreneur (Large, Published)**  
@@ -84,7 +94,8 @@ _All code in my portfolio repositories is written by me._
 - Fully moddable architecture  
 - AI behavior + state machines  
 - Complex economic systems  
-- Robust progression & job systems  
+- Robust progression & job systems
+**Steam:** https://store.steampowered.com/app/2648080/Urban_Entrepreneur/
 **Repo:** *Coming Soon*
 
 ---
@@ -93,6 +104,7 @@ _All code in my portfolio repositories is written by me._
 **Genre:** Turn-based war strategy  
 **Role:** Solo developer  
 **Highlights:** Data analysis for balancing, first published multiplayer title, enemy AI with point-based decision making  
+**Steam:** https://store.steampowered.com/app/2216750/Clay_Soldiers/
 **Repo:** *Coming Soon*
 
 ---
@@ -103,7 +115,8 @@ _All code in my portfolio repositories is written by me._
 **Highlights:**  
 - Procedural map generation  
 - VR interactions & player systems  
-- Basic AI behaviors & state machines  
+- Basic AI behaviors & state machines
+**Steam:** https://store.steampowered.com/app/1608010/Unchosen_Forsaken/
 **Repo:** *Coming Soon*
 
 ---
