@@ -52,6 +52,7 @@ _All code in my portfolio repositories is written by me._
 **Role:** Solo developer — I built the entire codebase.  
 **Highlights:** Systems architecture, real-time multiplayer, event pipelines, scalable token mechanics  
 **Steam:** https://store.steampowered.com/app/3585790/Battle_Tokens/
+
 **Repo:** https://github.com/ArchDawn725/BattleTokens-Portfolio
 
 ---
@@ -65,7 +66,7 @@ _All code in my portfolio repositories is written by me._
 - Projectile systems  
 - Single entry-point loading and initialization  
 
-**Repo:** *Coming Soon*
+**Repo:** https://github.com/ArchDawn725/TulsaCollab-Portfolio
 
 ---
 
@@ -74,7 +75,8 @@ _All code in my portfolio repositories is written by me._
 **Reason for cancellation:** AI task/memory consistency was too unreliable for the intended design.  
 **Highlights:** Voice pipeline, agent communication, system design experiments  
 **Steam:** https://store.steampowered.com/app/3247860/Talking_Coin/
-**Repo:** *Coming Soon*
+
+**Repo:** https://github.com/ArchDawn725/TalkingCoin-Portfolio
 
 ---
 
@@ -83,7 +85,8 @@ _All code in my portfolio repositories is written by me._
 **Goal:** A small studio-style experiment, recruiting local Tulsa developers to collaborate on a shared project.
 **Reason for cancellation:** Team participation and production were insufficient to maintain progress.
 **Highlights:** Strong emphasis on script readability, architectural consistency, and clean coding standards.
-**Repo:** Coming Soon
+
+**Repo:** https://github.com/ArchDawn725/StudioExperiment-Portfolio
   
 ---
 
@@ -96,7 +99,8 @@ _All code in my portfolio repositories is written by me._
 - Complex economic systems  
 - Robust progression & job systems
 **Steam:** https://store.steampowered.com/app/2648080/Urban_Entrepreneur/
-**Repo:** *Coming Soon*
+  
+**Repo:** https://github.com/ArchDawn725/UrbanEntrepreneur-Portfolio
 
 ---
 
@@ -105,7 +109,8 @@ _All code in my portfolio repositories is written by me._
 **Role:** Solo developer  
 **Highlights:** Data analysis for balancing, first published multiplayer title, enemy AI with point-based decision making  
 **Steam:** https://store.steampowered.com/app/2216750/Clay_Soldiers/
-**Repo:** *Coming Soon*
+
+**Repo:** https://github.com/ArchDawn725/ClaySoldiers-Portfolio
 
 ---
 
@@ -117,7 +122,8 @@ _All code in my portfolio repositories is written by me._
 - VR interactions & player systems  
 - Basic AI behaviors & state machines
 **Steam:** https://store.steampowered.com/app/1608010/Unchosen_Forsaken/
-**Repo:** *Coming Soon*
+  
+**Repo:** https://github.com/ArchDawn725/Unchosen_Forsaken-Portfolio
 
 ---
 
@@ -127,8 +133,9 @@ _All code in my portfolio repositories is written by me._
 - Importance of optimization  
 - Basic multiplayer  
 - Environment/map generation  
-- Creating repeatable gameplay patterns  
-**Repo:** *Coming Soon*
+- Creating repeatable gameplay patterns
+
+**Repo:** https://github.com/ArchDawn725/DispatchDisaster-Portfolio
 
 ---
 
